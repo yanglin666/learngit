@@ -4,3 +4,4 @@ git has a stage.
 aa
 bbb
 ccc
+ooooo
